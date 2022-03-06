@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(177, 177, 177);
+}
+#div1{
+    font-style: italic;
+    opacity: 90%;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 25%;
+    border: black;
+    border: solid;
+    border-radius: 50px;
+    background-color: rgb(41, 87, 172);
+    text-align: center;
+    width: 600px;
+    box-sizing: content-box;
+}
+#div1:hover{
+    opacity: 90%;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 25%;
+    border: black;
+    border: solid;
+    border-radius: 50px;
+    background-color: rgb(51, 96, 180);
+    text-align: center;
+    width: 600px;
+    box-sizing: content-box;
+}
+#btn{
+    border-radius: 12px;
+    border-color: black;
+    border: solid;
+    background-color: rgb(214, 214, 214);
+    width: 30%;
+    height: 30px;
+}
+#btn:hover{
+    border-radius: 12px;
+    border-color: black;
+    border: solid;
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    height: 30px;
+}
+
+#input{
+    border-radius: 8px;
+    background-color: white;
+    border: solid;
+    border-color: black;
+    width: 70%;
+    height: 25px;
+}
+#volver{
+    width: 8%;
+    height: 25px;
+    background-color: rgb(85, 126, 202);
+    margin: 5px;
+    border: black;
+    border: solid;
+    border-radius: 6px;
+}
+#forgt{
+    font-size: 15px;
+}

@@ -1,0 +1,150 @@
+/**{
+    margin: 0%;
+    padding: 0%;
+    }*/
+    .lado-izq {
+        display: flex;
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+    }
+    .img{
+        background-color: black;
+        width: 190px;
+        height: 145px;
+    }
+    #banner1{
+        height: 250px;
+        background-image: url("../../assets/img/Azul.jpg");
+    }
+    .espaciadossss{
+        display: flex;
+        justify-content: space-between;
+    }
+    #lado-der{
+        display: flex;
+            
+    }
+    #medio{ 
+  
+        text-align: center;
+        font-size: 75px;
+        font-style: italic;
+    }
+    #btn{
+        margin: 5px;
+        padding: 8px;
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.473);
+        border-radius: 18px;
+        background-color: rgb(48, 208, 248);
+        margin-top: 5px;
+        margin-bottom: 70px;
+        margin-left: 15px;
+        color: aliceblue;
+        
+    }
+    #btn:hover{
+        background-color: rgb(225, 237, 241);
+    }
+    #titulo{
+        font-size: 50px;
+        padding-left: 235px;
+        padding-top: 250px;
+        background-color: transparent;
+    }
+    .id{
+        background-color: rgb(172, 172, 172);
+        padding: 3px;
+        border-left: solid;
+        border-color: rgb(38, 222, 255);
+    }
+    #exp{
+        background-color: darkgrey;
+        width: 233px;
+        border-top: solid;
+        border-color: rgb(38, 222, 255);
+    
+    }
+    #lorem{
+        margin-top: -50px;
+        margin-left: 240px;
+        border-top: solid;
+        border-color: rgb(38, 222, 255);
+    }
+    #img-exp{
+        display: flex;
+        margin: 0px;
+        padding: 0px;
+        height: 150px;
+        width: 315px;
+        border: solid;
+        border-color: rgb(38, 222, 255);;
+    }
+    .txt1{
+        margin-left: 25px;
+        margin: 5px;
+    }
+    #perfil1{
+        margin-top: -210px;
+        height: 200px;
+        width: 210px;
+        border: groove;
+        border-color: rgb(38, 222, 255);
+        border-radius: 50%;
+    }
+    #full{
+        margin-top: 115px;
+        margin-left: 15px;
+    }
+    #redes{
+        padding: 15px;
+        background-color: rgb(48, 208, 248);
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.473);
+        border-radius: 16px;
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    #redes:hover{
+        background-color: rgb(225, 237, 241);
+    }
+    #redes1{
+        position: absolute;
+        padding: 15px;
+        background-color: rgb(48, 208, 248);
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.473);
+        border-radius: 16px;
+        margin-top: 5px;
+        margin-left: 120px;
+    }
+    #redes1:hover{
+        background-color: rgb(225, 237, 241);
+    }
+    #redes2{
+        position: absolute;
+        padding: 15px;
+        background-color: rgb(48, 208, 248);
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.473);
+        border-radius: 16px;
+        margin-top: 5px;
+        margin-left: 85px;
+    }
+    #redes2:hover{
+        background-color: rgb(225, 237, 241);
+    }
+    #redes3{
+        position: absolute;
+        padding: 15px;
+        background-color: rgb(48, 208, 248);
+        border: solid;
+        border-color: rgba(0, 0, 0, 0.473);
+        border-radius: 16px;
+        margin-top: 5px;
+        margin-left: 50px;
+    }
+    #redes3:hover{
+        background-color: rgb(225, 237, 241);
+    }
