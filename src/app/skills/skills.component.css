@@ -63,11 +63,11 @@
     position: absolute;
     margin-left: 250px
   }
-  .js{
+  .git{
     position: absolute;
     margin-left: 450px
   }
-  .git{
+  .js{
     position: absolute;
     margin-left: 650px
   }
@@ -79,8 +79,13 @@
     position: absolute;
     margin-left: 1050px
   }
-  .c{
+  .ts{
     position: absolute;
     margin-left: 50px;
+    margin-top: 200px;
+  }
+  .c{
+    position: absolute;
+    margin-left: 250px;
     margin-top: 200px;
   }

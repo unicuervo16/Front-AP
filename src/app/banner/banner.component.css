@@ -78,8 +78,9 @@
     }
     #perfil1{
         margin-top: -210px;
-        height: 210px;
-        width: 210px;
+        height: 220px;
+        width: 220px;
+        margin-left: -1px;
         border: groove;
         border-color: rgb(38, 222, 255);
         border-radius: 50%;
