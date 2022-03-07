@@ -1,0 +1,19 @@
+.exp{
+    margin-left: 15px;
+    font-size: 50px;
+}
+.ttitle{
+    position: absolute;
+    margin-left: 450px;
+}
+.img{
+    position: absolute;
+    margin-left: 15px;
+    height: 150px;
+    width: 300px;
+}
+.par{
+    position: absolute;
+    margin-left: 450px;
+
+}
